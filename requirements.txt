@@ -1,4 +1,7 @@
-pandas
-matplotlib
-mplsoccer
 statsbombpy
+pandas>=1.5.0
+numpy
+matplotlib>=3.5.0
+seaborn
+mplsoccer
+scipy
